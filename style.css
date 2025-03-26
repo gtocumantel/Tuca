@@ -1,1 +1,7 @@
-body{background:color(srgb blue)}
+body{
+    background:color(srgb blue)
+}
+h1{
+    font-style:italic;
+    color:blue
+}
