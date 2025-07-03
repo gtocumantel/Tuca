@@ -1,0 +1,37 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #222;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #00ccff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+main {
+    padding: 25px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: square;
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto 30px auto;
+    color: #00ffcc;
+}
+
+footer {
+    background-color: #222;
+    text-align: center;
+    padding: 10px;
+}
